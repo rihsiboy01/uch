@@ -1,0 +1,132 @@
+.novtbuk{
+    display: flex;
+    border: 5px solid;
+    height: 700px;
+    background-color: white;
+    flex-wrap: wrap;
+}
+.mol{
+    display: flex;
+    flex-direction: column;
+    border: 3px;
+    background-color: darkmagenta;
+    width: 150px;
+    height: 150px;
+    margin: left 10px; 
+}
+.ot{
+    display: flex;
+    border: 3px;
+    background-color: darkmagenta;
+    width: 150px;
+    height: 150px;
+    margin: left 10px; 
+}
+.kir{
+    display: flex;
+    border: 3px;
+    background-color: darkmagenta;
+    width: 150px;
+    height: 150px;
+    flex-wrap: wrap;
+}
+.maymn{
+    display: flex;
+    background-color: darkmagenta;
+    width: 150px;
+    height: 150px;
+     
+}
+.bot{
+    display: flex;
+    border: 3px;
+    background-color: darkmagenta;
+    width: 150px;
+    height: 150px;
+    margin: left 10px; 
+}
+.yut{
+    display: flex;
+    border: 3px;
+    background-color: darkmagenta;
+    width: 150px;
+    height: 150px;
+    margin: left 10px; 
+}
+.hamstir{
+    display: flex;
+    border: 3px;
+    background-color: darkmagenta;
+    width: 150px;
+    height: 150px;
+    margin: left 10px; 
+}
+.koyin{
+    display: flex;
+    border: 3px;
+    background-color: darkmagenta;
+    width: 150px;
+    height: 150px;
+    margin: left 10px; 
+}
+.uzum{
+    display: flex;
+    border: 3px;
+    background-color: darkmagenta;
+    width: 150px;
+    height: 150px;
+    margin: left 10px; 
+}
+.abdulloh{
+    display: flex;
+    border: 3px;
+    background-color: darkmagenta;
+    width: 150px;
+    height: 150px;
+    margin: left 10px; 
+}
+.novtbuk div{
+    display: flex;
+    margin-left: 10px;
+    flex-wrap: wrap;
+    margin-right: 10px;
+    justify-content: space-around;
+}
+.mol div{
+    background-color: yellow;
+    border: 5px solid red;
+    display: flex;
+    width: 20px;
+    height: 20px;
+}
+.ot div{
+    display: flex;
+    background-color: yellow;
+    border: 5px solid red; width: 20px;
+    height: 20px;   
+}
+.kir div{
+    display: flex;
+    background-color: yellow;
+     width: 15px;
+    height: 15px;   
+}
+.maymn div{
+    display: flex;
+    background-color: yellow;
+     width: 30px;
+    height: 30px;   
+}
+.bot div{
+    display: flex;
+    background-color: yellow;
+    border: 5px solid red; width: 20px;
+    height: 20px;   
+}
+.yut div{
+    display: flex;
+    align-items: end;
+    background-color: yellow;
+    border: 5px solid red; width: 20px;
+    height: 20px;   
+}
